@@ -44,7 +44,7 @@ body {
     background-color: var(--card-bg);
     border-radius: 0.5rem;
     margin-bottom: 1rem;
-    width: 450px;
+    width: 400px;
 }
 
 .card__main-image {
